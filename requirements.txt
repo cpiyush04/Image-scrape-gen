@@ -1,0 +1,5 @@
+beautifulsoup4
+requests
+pillow
+python-dotenv
+google-generativeai
